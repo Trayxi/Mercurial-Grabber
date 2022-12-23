@@ -1,3 +1,3 @@
-Extract to folder first before running.
+Mercurial
 
-discord.gg/e8Qy8JKbUK
+discord.gg/Q2cKgHhX
