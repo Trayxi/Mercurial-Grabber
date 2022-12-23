@@ -1,3 +1,3 @@
-Mercurial
+# Mercurial
 
 discord.gg/Q2cKgHhX
